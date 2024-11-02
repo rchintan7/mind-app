@@ -1,0 +1,490 @@
+{
+    "taskflowId": "1",
+    "title": "static quiz",
+    "description": "static desc",
+    "taskflowTime": "60",
+    "totalTasks": 1,
+    "taskFlowType": "QUIZ",
+    "tasks": [
+        {
+            "id": "1",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Ein Kollege bringt dir ungefragt einen Kaffee. Was denkst du?",
+            "description": "A scenario where a colleague offers coffee.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Dankbarkeit",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Warum bringt er mir einen Kaffee? (Ich habe nicht darum gebeten) wenn es zu lang ist, streichen"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich brauch gerade keinen Kaffee, aber danke trotzdem"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Oh, das ist nett von dir!"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Das freut mich wirklich, vielen Dank!"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Macht mir den Tag besser"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "2",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Ein Freund hilft dir spontan dabei, ein technisches Problem mit deinem Computer zu lösen, das dich schon seit Tagen beschäftigt hat. Wie reagierst du?",
+            "description": "A friend offers unexpected help with a technical issue.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Dankbarkeit",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ich nehme seine Hilfe an, sage aber nichts weiter dazu"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich sage kurz \"Danke\" und setze meine Arbeit fort"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich bedanke mich herzlich und zeige meine Wertschätzung"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich freue mich sehr, drücke meine Dankbarkeit aus und biete an, ihm bei Gelegenheit ebenfalls zu helfen."
+                },
+                {
+                    "id": "5",
+                    "answerText": "Ich bin äußerst dankbar, drücke dies deutlich aus und plane, mich mit einer besonderen Geste bei ihm zu revanchieren."
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "3",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Ein Freund wirkt auf einmal abwesend, während ihr sprecht. Was machst du?",
+            "description": "A friend seems distant during a conversation.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Emotionale Intelligenz",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ignoriere es und spreche einfach weiter"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich Bemerke es, bin aber unsicher, wie ich reagieren soll"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Frage ihn, ob alles in Ordnung ist"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Versuche ihn zum Reden zu bringen"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Erkenne sofort seine Gefühle und reagiere einfühlsam, um ihm gezielt zu helfen."
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "4",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Bei einem Meeting wird jemand unerwartet laut und verärgert. Was machst du?",
+            "description": "A person gets unexpectedly loud and angry in a meeting.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Emotionale Intelligenz",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ich ignoriere meine Gefühle und die Situation"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich fühle mich unwohl, weiß aber nicht genau warum."
+                },
+                {
+                    "id": "3",
+                    "answerText": "Denke nach, was los sein könnte"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich spreche ruhig mit der Person"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Versuche, die Person zu beruhigen und zu verstehen"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "5",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Du hast eine schwierige Aufgabe vor dir. Wie gehst du an die Sache heran?",
+            "description": "Facing a difficult task.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Positive Gedankenstruktur",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Denke, dass es unmöglich ist"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Fühle mich überfordert"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Nehme es an, aber habe Zweifel"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Sehe es als Herausforderung"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Fühle mich bereit, es zu meistern"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "6",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Du bekommst unerwartet eine schlechte Nachricht. Was geht dir durch den Kopf?",
+            "description": "Receiving unexpected bad news.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Positive Gedankenstruktur",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Alles geht schief"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Das ist wirklich hart"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich finde einen Weg"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich nehme es als Teil des Lebens an"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Ich kann daraus etwas lernen"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "7",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Ein wichtiges Projekt wird abgelehnt. Was machst du?",
+            "description": "A crucial project gets rejected.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Resilienz",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ich bin am Boden zerstört"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich fühle mich niedergeschlagen und es fällt mir schwer, mich wieder zu motivieren"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich nehme mir Zeit, um darüber nachzudenken, was ich verbessern kann"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich akzeptiere den Rückschlag und mache entschlossen weiter"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Ich stehe sofort wieder auf und starte neu"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "8",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Du erhältst negative Kritik für deine Arbeit. Wie reagierst du?",
+            "description": "Receiving negative feedback about your work.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Resilienz",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ich nehme es sehr persönlich und fühle mich schlecht"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich fühle mich gekränkt und es belastet mich eine Weile"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich denke darüber nach, ob es berechtigt ist und versuche, draus zu lernen"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich nehme die Kritik an und lasse mich nicht entmutigen"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Ich nutze sie sofort, um besser zu werden und bleibe ausgeglichen"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "9",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Du siehst ein Problem im Team, das nicht angesprochen wurde. Was machst du?",
+            "description": "Receiving negative feedback about your work.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Proaktives Handeln",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ignoriere es"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Hoffe, dass es jemand anderes anspricht"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Überlege, ob ich es ansprechen soll"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Spreche es beim nächsten Anlass an"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Gehe proaktiv auf das Team zu"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "10",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Du hast die Möglichkeit, eine neue Aufgabe zu übernehmen, die niemand will. Was machst du?",
+            "description": "Receiving negative feedback about your work.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Proaktives Handeln",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Lehne direkt ab"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich überlege sorgfältig, bevor ich entscheide"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich nehme mir die Aufgabe an, aber mit gewissen Zweifeln"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Übernehme sie, um zu helfen"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Ich ergreife die Aufgabe sofort und sehe darin eine Chance zur Weiterentwicklung"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "11",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Du wirst spontan zu einer Veranstaltung eingeladen, kennst aber niemanden dort. Was machst du?",
+            "description": "Receiving negative feedback about your work.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Soziales Umfeld",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ich lehne die Einladung sofort ab"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich fühle mich unwohl, aber vielleicht gehe ich trotzdem hin"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich überlege ganz genau, ob ich hingehe"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich gehe hin und fühle mich dabei in Ordnung"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Freue mich auf neue Bekanntschaften und bin gespannt auf das Treffen"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "12",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Ein Freund bittet dich kurzfristig um Hilfe bei einem Umzug. Wie reagierst du?",
+            "description": "Receiving negative feedback about your work.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Soziales Umfeld",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Lehne ab, da es nicht in meinen Zeitplan passt"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Überlege lange, ob ich helfen kann"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich helfe, obwohl ich es lieber nicht tun würde"
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich biete spontan und ohne Zögern meine Hilfe an"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Ich helfe sofort und freue mich, meinen Freund zu unterstützen"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "13",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Nach Abschluss eines Projekts reflektierst du über deine Leistung. Was machst du?",
+            "description": "Receiving negative feedback about your work.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Allgemein (Selbsterkenntnis)",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Übersehe die Ergebnisse und konzentriere mich auf die nächsten Aufgaben"
+                },
+                {
+                    "id": "2",
+                    "answerText": "Denke kurz über die Projektergebnisse nach, ohne tiefer zu gehen."
+                },
+                {
+                    "id": "3",
+                    "answerText": "Identifiziere einige Stärken und Schwächen, ohne konkrete Maßnahmen zu planen."
+                },
+                {
+                    "id": "4",
+                    "answerText": "Analysiere detailliert meine Stärken und Schwächen und plane Verbesserungen."
+                },
+                {
+                    "id": "5",
+                    "answerText": "Führe eine umfassende Selbstreflexion durch und setze gezielte Maßnahmen zur Weiterentwicklung um."
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "14",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Du erfährst, dass dein Zug ausfällt und du stattdessen den Schienenersatzverkehr nehmen musst, der viel länger dauert. Wie reagierst du?",
+            "description": "Receiving negative feedback about your work.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Allgemein (Akzeptanz)",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ich ärgere mich und mein Tag ist hinüber."
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich bin frutriert und kann mich nicht auf etwas anderes konzentrieren"
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich bin genervt, akzeptiere es aber und suche nach einer Möglichkeit, die Zeit zu überbrücken."
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich akzeptiere die Verspätung und nutze die längere Zeit sinnvoll"
+                },
+                {
+                    "id": "5",
+                    "answerText": "Ich freue mich über die zusätzliche Zeit und nutze sie, um etwas Produktives zu tun oder zu entspannen"
+                }
+            ],
+            "isCompleted": false
+        },
+        {
+            "id": "15",
+            "taskType": "SINGLE_CHOICE_QUESTION",
+            "title": "Du bist auf der Suche nach einem neuen Auto und hast zwei gute Optionen zur Auswahl. Beide passen zu deinen Anforderungen, aber du kannst dich nicht sofort entscheiden. Wie gehst du vor?",
+            "description": "Receiving negative feedback about your work.",
+            "svgUrl": null,
+            "type": "SVG",
+            "categoryAssign": "Allgemein (Veränderung)",
+            "answers": [
+                {
+                    "id": "1",
+                    "answerText": "Ich frage viele Leute nach ihrer Meinung und lasse mich stark davon beeinflussen."
+                },
+                {
+                    "id": "2",
+                    "answerText": "Ich lese stundenlang Bewertungen und finde es trotzdem schwierig, mich zu entscheiden."
+                },
+                {
+                    "id": "3",
+                    "answerText": "Ich denke lange über alle Vor- und Nachteile nach, bin mir aber unsicher, was mein Bauchgefühl sagt."
+                },
+                {
+                    "id": "4",
+                    "answerText": "Ich überlege gut und höre auf mein Bauchgefühl, bevor ich eine Entscheidung treffe."
+                },
+                {
+                    "id": "5",
+                    "answerText": "Ich vertraue meiner inneren Stimme und weiß schnell, was für mich die beste Wahl ist."
+                }
+            ],
+            "isCompleted": false
+        }
+    ]
+}
